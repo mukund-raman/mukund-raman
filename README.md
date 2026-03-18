@@ -12,13 +12,13 @@
 
 Hey there! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
 
-- 🔭 **ML & Robotics Researcher @ Living With Robots Laboratory (LWR):** Developing and optimizing Transformer-based architectures for human intent and motion trajectory prediction. I engineered a robust training pipeline predicting future variable-length trajectories using spatial-temporal attention on 3D skeletal data. Additionally, I implemented real-time C++ tracking utilities pulling skeletal data streams from Azure Kinect DK sensors, achieving state-of-the-art error rates.
+- 🔭 **ML & Robotics Researcher @ Living With Robots Laboratory (LWR):** Developing and optimizing Transformer-based architectures for human intent and motion trajectory prediction. I helped engineer a robust training pipeline predicting future variable-length trajectories using spatial-temporal attention on 3D skeletal data. Additionally, our team implemented real-time C++ tracking utilities pulling skeletal data streams from Azure Kinect SDK sensors, achieving state-of-the-art error rates.
 
-- 🌱 **ML & Systems Researcher @ Learning Directed Operating System (LDOS):** Researching dynamic microservice scheduling using Bayesian optimization. I extract application embeddings from resource usage graphs (CPU, RAM, latency) and train autoencoders to profile microservices (e.g., DeathStarBench), predicting optimal placements that outperform Kubernetes’ default heuristics and effectively reduce P99 tail latencies.
+- 🌱 **ML & Systems Researcher @ Learning Directed Operating System (LDOS):** Researching dynamic microservice scheduling using Bayesian optimization. I extract application embeddings from resource usage graphs (CPU, RAM, network latency) and train autoencoders to profile microservices (e.g., DeathStarBench), predicting optimal placements that outperform Kubernetes’ default heuristics and effectively reduce P99 tail latencies.
 
-- 👨‍🏫 **Teaching Assistant @ UT Austin:** Serving as an Undergraduate Teaching Assistant for **CS 331 (Algorithms & Complexity)**, guiding students through foundational and advanced algorithmic paradigms.
+- 👨‍🏫 **Teaching Assistant @ UT Austin:** Served as an Undergraduate Teaching Assistant for **CS 331 (Algorithms & Complexity)**, guiding students through foundational and advanced algorithmic paradigms.
 
-- 💼 **Incoming SWE Intern @ Google:** Joining the Engineering Productivity organization in NYC (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
+- 💼 **Incoming SWE Intern @ Google:** I will join the Engineering Productivity organization in New York City (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
 
 - 🏆 **Awards & Honors:** "Best Use of Google Cloud" @ HackTX 2023 | 5x University Honors
 
@@ -88,9 +88,9 @@ Hey there! I'm a student at **The University of Texas at Austin** studying Compu
 | Topic | Description | Link |
 |-------|-------------|------|
 | **Human Motion Prediction (LWR)** | Engineered a dynamic generic training pipeline for PyTorch models forecasting human movement trajectories. Designed a Transformer architecture predicting variable-length sequences up to 2 seconds into the future using sparse joints. Handled real-time spatial/temporal processing bridging Python inferences and C++ Kinect API streams. | Research @ LWR |
-| **Microservice Scheduling via LLMs (LDOS)** | Designed automated data pipelines capturing P99 latency and system CPU/Memory traces via Kubernetes, wrk2, and Docker Swarm for the DeathStarBench SocialNetwork app. Implemented Bayesian optimization workflows navigating high-dimensional placement spaces to outperform internal heuristics. | [LDOS Repository](https://github.com/mukund-raman/DeathStarBench-LDOS) |
+| **Dynamic Microservice Scheduling with ML (LDOS)** | Designed automated data pipelines capturing P99 latency and system CPU/Memory traces via Kubernetes, wrk2, and Docker Swarm for the DeathStarBench SocialNetwork app. Implemented Bayesian optimization workflows navigating high-dimensional placement spaces to outperform internal heuristics. | [LDOS Repository](https://github.com/mukund-raman/DeathStarBench-LDOS) |
 | **SearchIt** | **Winner of Best Use of Google Cloud @ HackTX 2023.** Engineered a comprehensive semantic search tool utilizing GCP Speech-to-Text and NLP APIs to naturally query and navigate through extensive video content. | [SearchIt Repository](https://github.com/mukund-raman/SearchIt) |
-| **serverless-benchmarks (LDOS)** | Developed a robust tracing pipeline using `bpftrace` to capture deep system latency, CPU, and memory constraints across ten Serverless Benchmark Suite (SeBS) workloads. Traces formulate resource-usage graphs to train predictive LLM latency models. | [View Project](https://github.com/mukund-raman/serverless-benchmarks) |
+| **serverless-benchmarks (LDOS)** | Developed a robust tracing pipeline using `bpftrace` to capture deep system latency, CPU, and memory constraints across 10 Serverless Benchmark Suite (SeBS) workloads. Traces formulate resource-usage graphs to train predictive LLM latency models. | [View Project](https://github.com/mukund-raman/serverless-benchmarks) |
 
 <br/>
 
@@ -100,10 +100,9 @@ Hey there! I'm a student at **The University of Texas at Austin** studying Compu
   - 🤖 **[Robotic-Arm-YOLOv11-Detection](https://github.com/mukund-raman/Robotic-Arm-YOLOv11-Detection):** Explored object detection models implemented via Jupyter Notebooks for robotic arm manipulation and pose estimation.
   - 🚑 **[Crisis-Management](https://github.com/mukund-raman/Crisis-Management):** Built the official CISD Crisis Management native iOS application utilizing Swift and UIKit.
   - 🎸 **[FenderFinder](https://github.com/mukund-raman/FenderFinder):** Comprehensive native iOS application built natively with Swift.
-  - 📊 **[KernMLOps](https://github.com/mukund-raman/KernMLOps):** Setup for Continuous Integration and Continuous Deployment (CI/CD) ML pipelines.
-  - 🎗️ **[Breast-Cancer-Prediction](https://github.com/mukund-raman/Breast-Cancer-Prediction):** Complex data exploration, regression modeling, and prediction workflows analyzing breast cancer recurrence probability.
-  - 🏠 **[California-Housing-Regression](https://github.com/mukund-raman/California-Housing-Regression):** Data science notebook mapping advanced spatial regression strategies on housing datasets.
-  - 🏗️ **[Texas-Building-Damages](https://github.com/mukund-raman/Texas-Building-Damages):** Regression modeling notebook focused on evaluating building damage classifications.
+  - 🎗️ **[Breast-Cancer-Prediction (Course)](https://github.com/mukund-raman/Breast-Cancer-Prediction):** Complex data exploration, regression modeling, and prediction workflows analyzing breast cancer recurrence probability.
+  - 🏠 **[California-Housing-Regression (Course)](https://github.com/mukund-raman/California-Housing-Regression):** Data science notebook mapping advanced spatial regression strategies on housing datasets.
+  - 🏗️ **[Texas-Building-Damages (Course)](https://github.com/mukund-raman/Texas-Building-Damages):** Regression modeling notebook focused on evaluating building damage classifications.
 
 </details>
 
@@ -112,6 +111,6 @@ Hey there! I'm a student at **The University of Texas at Austin** studying Compu
 <br/>
 
 <div align="center">
-  <i>"Optimizing inference and predicting intent, one transformer layer at a time."</i><br><br>
+  <i>"Any sufficiently advanced technology is indistinguishable from magic — Arthur C. Clarke"</i><br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
