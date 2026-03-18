@@ -1,32 +1,28 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mukund%20Raman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Undergraduate%20Machine%20Learning%20Researcher&descAlignY=51&descAlign=62" width="100%" />
-
-  <br/>
   
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+&+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;Incoming+SWE+Intern+@+Google;ML+&+Robotics+Researcher+@+LWR;ML+&+Systems+Researcher+@+LDOS;CS+331+Teaching+Assistant;Developer+of+Swift+Mobile+Apps">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+&+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;Incoming+SWE+Intern+@+Google;ML+&+Robotics+Researcher+@+LWR;ML+&+Systems+Researcher+@+LDOS;CS+331+Teaching+Assistant;Developer+of+Swift+Mobile+Apps" alt="Typing SVG" />
   </a>
-
-  <br/>
 
   <a href="https://www.linkedin.com/in/mukundkraman/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mkraman@utexas.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<br/>
-
 ## 👨‍💻 About Me
 
-Welcome to my piece of the internet! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems.
+Hey there! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
 
 - 🔭 **ML & Robotics Researcher @ Living With Robots Laboratory (LWR):** Developing and optimizing Transformer-based architectures for human intent and motion trajectory prediction. I engineered a robust training pipeline predicting future variable-length trajectories using spatial-temporal attention on 3D skeletal data. Additionally, I implemented real-time C++ tracking utilities pulling skeletal data streams from Azure Kinect DK sensors, achieving state-of-the-art error rates.
-- 🌱 **ML & Systems Researcher @ Learning Directed Operating System (LDOS):** Researching dynamic microservice scheduling using Bayesian optimization. I extract application embeddings from resource usage graphs (CPU, RAM, latency) and train autoencoders to profile microservices (e.g., DeathStarBench), predicting optimal placements that outperform Kubernetes’ default heuristics and effectively reduce P99 tail latencies.
-- 👨‍🏫 **Teaching Assistant @ UT Austin:** Serving as an Undergraduate Teaching Assistant for **CS 331 (Algorithms & Complexity)**, guiding students through foundational and advanced algorithmic paradigms.
-- 💼 **Incoming SWE Intern @ Google:** Joining the Engineering Productivity organization in NYC (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
-- 🏆 **Awards & Honors:** "Best Use of Google Cloud" @ HackTX 2023 | 5x University Honors
 
-<hr>
+- 🌱 **ML & Systems Researcher @ Learning Directed Operating System (LDOS):** Researching dynamic microservice scheduling using Bayesian optimization. I extract application embeddings from resource usage graphs (CPU, RAM, latency) and train autoencoders to profile microservices (e.g., DeathStarBench), predicting optimal placements that outperform Kubernetes’ default heuristics and effectively reduce P99 tail latencies.
+
+- 👨‍🏫 **Teaching Assistant @ UT Austin:** Serving as an Undergraduate Teaching Assistant for **CS 331 (Algorithms & Complexity)**, guiding students through foundational and advanced algorithmic paradigms.
+
+- 💼 **Incoming SWE Intern @ Google:** Joining the Engineering Productivity organization in NYC (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
+
+- 🏆 **Awards & Honors:** "Best Use of Google Cloud" @ HackTX 2023 | 5x University Honors
 
 ## 🛠️ Tech Stack & Tools
 
@@ -51,8 +47,8 @@ Welcome to my piece of the internet! I'm a student at **The University of Texas 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
   <br/>
@@ -78,8 +74,6 @@ Welcome to my piece of the internet! I'm a student at **The University of Texas 
 
 </div>
 
-<hr>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -91,31 +85,33 @@ Welcome to my piece of the internet! I'm a student at **The University of Texas 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-raman&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80" alt="Top Languages" width="50%" />
 </div>
 
-<hr>
-
 ## 🔬 Featured Research & Projects
 
 | Topic | Description | Link |
 |-------|-------------|------|
 | **Human Motion Prediction (LWR)** | Engineered a dynamic generic training pipeline for PyTorch models forecasting human movement trajectories. Designed a Transformer architecture predicting variable-length sequences up to 2 seconds into the future using sparse joints. Handled real-time spatial/temporal processing bridging Python inferences and C++ Kinect API streams. | Research @ LWR |
 | **Microservice Scheduling via LLMs (LDOS)** | Designed automated data pipelines capturing P99 latency and system CPU/Memory traces via Kubernetes, wrk2, and Docker Swarm for the DeathStarBench SocialNetwork app. Implemented Bayesian optimization workflows navigating high-dimensional placement spaces to outperform internal heuristics. | [LDOS Repository](https://github.com/mukund-raman/DeathStarBench-LDOS) |
-| **SideCar** | A python-based system that dynamically generates a timeline showing the optimal lap for a team to have a pit stop. The timeline adapts to granular live race conditions such as rain, safety cars, or opponents' strategies. | [View Project](https://github.com/mukund-raman/SideCar) |
-| **serverless-benchmarks** | Contributed to open-source benchmarking suites analyzing massive sets of FaaS platforms and serverless functions via python-driven automation. | [Contrib Source](https://github.com/mukund-raman/serverless-benchmarks) |
+| **SearchIt** | **Winner of Best Use of Google Cloud @ HackTX 2023.** Engineered a comprehensive semantic search tool utilizing GCP Speech-to-Text and NLP APIs to naturally query and navigate through extensive video content. | [SearchIt Repository](https://github.com/mukund-raman/SearchIt) |
+| **serverless-benchmarks (LDOS)** | Developed a robust tracing pipeline using `bpftrace` to capture deep system latency, CPU, and memory constraints across ten Serverless Benchmark Suite (SeBS) workloads. Traces formulate resource-usage graphs to train predictive LLM latency models. | [View Project](https://github.com/mukund-raman/serverless-benchmarks) |
 
 <br/>
 
 <details>
-  <summary><b>🔥 Explore More Code Contributions & Projects</b></summary>
+  <summary><b>🔥 Explore More Code Repositories</b></summary>
   
-  - 🤖 **Robotic-Arm YOLOv11 Detection:** Explored object detection models implemented via Jupyter Notebooks for robotic arm manipulation and pose estimation.
-  - 🍏 **FenderFinder & Crisis-Management (Swift):** Built comprehensive native iOS applications utilizing Swift, UIKit, and external integrations (including the official CISD Crisis Management App and CHS Student Central App).
-  - 📊 **KernMLOps:** Setup for CI/CD ML pipelines.
-  - 🧪 **Data Science Notebooks:** Complex data exploration, regression modeling, and prediction workflows (including Breast Cancer recurrence modeling, Texas Building Damages, and California Housing regression strategies).
-  - ⚛️ **React / Web Frontends:** Extensive experience developing componentized UI interactions (NextJS, Tailwind).
+  - 🤖 **[Robotic-Arm-YOLOv11-Detection](https://github.com/mukund-raman/Robotic-Arm-YOLOv11-Detection):** Explored object detection models implemented via Jupyter Notebooks for robotic arm manipulation and pose estimation.
+  - 🚑 **[Crisis-Management](https://github.com/mukund-raman/Crisis-Management):** Built the official CISD Crisis Management native iOS application utilizing Swift and UIKit.
+  - 🎸 **[FenderFinder](https://github.com/mukund-raman/FenderFinder):** Comprehensive native iOS application built natively with Swift.
+  - 📊 **[KernMLOps](https://github.com/mukund-raman/KernMLOps):** Setup for Continuous Integration and Continuous Deployment (CI/CD) ML pipelines.
+  - 🎗️ **[Breast-Cancer-Prediction](https://github.com/mukund-raman/Breast-Cancer-Prediction):** Complex data exploration, regression modeling, and prediction workflows analyzing breast cancer recurrence probability.
+  - 🏠 **[California-Housing-Regression](https://github.com/mukund-raman/California-Housing-Regression):** Data science notebook mapping advanced spatial regression strategies on housing datasets.
+  - 🏗️ **[Texas-Building-Damages](https://github.com/mukund-raman/Texas-Building-Damages):** Regression modeling notebook focused on evaluating building damage classifications.
 
 </details>
 
+<br/>
 <hr>
+<br/>
 
 <div align="center">
   <i>"Optimizing inference and predicting intent, one transformer layer at a time."</i><br><br>
