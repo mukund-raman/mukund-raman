@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mukund%20Raman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20&%20Systems%20Researcher&descAlignY=51&descAlign=62" width="100%" />
 
-  <img src="assets/profile.png" width="180px" style="border-radius: 50%; border: 4px solid #4ade80; box-shadow: 0 0 20px rgba(74, 222, 128, 0.4); margin-top: -90px; position: relative; z-index: 10;" alt="Mukund Raman Profile Picture" />
   
   <br/>
   
