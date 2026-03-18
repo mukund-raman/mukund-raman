@@ -3,8 +3,8 @@
 
   <br/>
   
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+&+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;ML+&+Robotics+Researcher+@+LWR;ML+&+Systems+Researcher+@+LDOS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+&+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;ML+&+Robotics+Researcher+@+LWR;ML+&+Systems+Researcher+@+LDOS" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+&+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;Incoming+SWE+Intern+@+Google;ML+&+Robotics+Researcher+@+LWR;ML+&+Systems+Researcher+@+LDOS;CS+331+Teaching+Assistant;Developer+of+Swift+Mobile+Apps">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+&+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;Incoming+SWE+Intern+@+Google;ML+&+Robotics+Researcher+@+LWR;ML+&+Systems+Researcher+@+LDOS;CS+331+Teaching+Assistant;Developer+of+Swift+Mobile+Apps" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -18,10 +18,12 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my piece of the internet! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My career goal is to become a Machine Learning Researcher in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems.
+Welcome to my piece of the internet! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems.
 
 - 🔭 **ML & Robotics Researcher @ Living With Robots Laboratory (LWR):** Developing and optimizing Transformer-based architectures for human intent and motion trajectory prediction. I engineered a robust training pipeline predicting future variable-length trajectories using spatial-temporal attention on 3D skeletal data. Additionally, I implemented real-time C++ tracking utilities pulling skeletal data streams from Azure Kinect DK sensors, achieving state-of-the-art error rates.
 - 🌱 **ML & Systems Researcher @ Learning Directed Operating System (LDOS):** Researching dynamic microservice scheduling using Bayesian optimization. I extract application embeddings from resource usage graphs (CPU, RAM, latency) and train autoencoders to profile microservices (e.g., DeathStarBench), predicting optimal placements that outperform Kubernetes’ default heuristics and effectively reduce P99 tail latencies.
+- 👨‍🏫 **Teaching Assistant @ UT Austin:** Serving as an Undergraduate Teaching Assistant for **CS 331 (Algorithms & Complexity)**, guiding students through foundational and advanced algorithmic paradigms.
+- 💼 **Incoming SWE Intern @ Google:** Joining the Engineering Productivity organization in NYC (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
 - 🏆 **Awards & Honors:** "Best Use of Google Cloud" @ HackTX 2023 | 5x University Honors
 
 <hr>
@@ -38,6 +40,7 @@ Welcome to my piece of the internet! I'm a student at **The University of Texas 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Q%23-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
   <br/>
 
@@ -49,6 +52,8 @@ Welcome to my piece of the internet! I'm a student at **The University of Texas 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
   <br/>
 
@@ -59,6 +64,9 @@ Welcome to my piece of the internet! I'm a student at **The University of Texas 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_Kinect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   
   <br/>
 
@@ -91,18 +99,19 @@ Welcome to my piece of the internet! I'm a student at **The University of Texas 
 |-------|-------------|------|
 | **Human Motion Prediction (LWR)** | Engineered a dynamic generic training pipeline for PyTorch models forecasting human movement trajectories. Designed a Transformer architecture predicting variable-length sequences up to 2 seconds into the future using sparse joints. Handled real-time spatial/temporal processing bridging Python inferences and C++ Kinect API streams. | Research @ LWR |
 | **Microservice Scheduling via LLMs (LDOS)** | Designed automated data pipelines capturing P99 latency and system CPU/Memory traces via Kubernetes, wrk2, and Docker Swarm for the DeathStarBench SocialNetwork app. Implemented Bayesian optimization workflows navigating high-dimensional placement spaces to outperform internal heuristics. | [LDOS Repository](https://github.com/mukund-raman/DeathStarBench-LDOS) |
-| **Robotic-Arm YOLOv11 Detection** | Explored object detection models implemented via Jupyter Notebooks for robotic arm manipulation and pose estimation. | [View Repository](https://github.com/mukund-raman/Robotic-Arm-YOLOv11-Detection) |
-| **FenderFinder / Crisis-Management** | Built comprehensive native iOS applications utilizing Swift, UIKit, and external integrations. | Mobile Projects |
+| **SideCar** | A python-based system that dynamically generates a timeline showing the optimal lap for a team to have a pit stop. The timeline adapts to granular live race conditions such as rain, safety cars, or opponents' strategies. | [View Project](https://github.com/mukund-raman/SideCar) |
 | **serverless-benchmarks** | Contributed to open-source benchmarking suites analyzing massive sets of FaaS platforms and serverless functions via python-driven automation. | [Contrib Source](https://github.com/mukund-raman/serverless-benchmarks) |
 
 <br/>
 
 <details>
-  <summary><b>🔥 Explore More Code Contributions</b></summary>
+  <summary><b>🔥 Explore More Code Contributions & Projects</b></summary>
   
-  - ⚛️ **React / Web Frontends:** Extensive experience developing componentized UI interactions (NextJS, Tailwind).
+  - 🤖 **Robotic-Arm YOLOv11 Detection:** Explored object detection models implemented via Jupyter Notebooks for robotic arm manipulation and pose estimation.
+  - 🍏 **FenderFinder & Crisis-Management (Swift):** Built comprehensive native iOS applications utilizing Swift, UIKit, and external integrations (including the official CISD Crisis Management App and CHS Student Central App).
   - 📊 **KernMLOps:** Setup for CI/CD ML pipelines.
-  - 🧪 **Data Science Notebooks:** Complex data exploration, regression modeling, and prediction workflows (including Breast Cancer recurrence modeling and Housing regression strategies).
+  - 🧪 **Data Science Notebooks:** Complex data exploration, regression modeling, and prediction workflows (including Breast Cancer recurrence modeling, Texas Building Damages, and California Housing regression strategies).
+  - ⚛️ **React / Web Frontends:** Extensive experience developing componentized UI interactions (NextJS, Tailwind).
 
 </details>
 
