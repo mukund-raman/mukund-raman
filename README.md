@@ -47,8 +47,8 @@ Hey there! I'm a student at **The University of Texas at Austin** studying Compu
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
   <br/>
@@ -82,7 +82,7 @@ Hey there! I'm a student at **The University of Texas at Austin** studying Compu
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-raman&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-raman&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80&hide=jupyter%20notebook" alt="Top Languages" width="50%" />
 </div>
 
 ## 🔬 Featured Research & Projects
