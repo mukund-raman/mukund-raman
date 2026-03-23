@@ -14,13 +14,13 @@
 
 Hey there! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
 
+- 💼 **Incoming SWE Intern @ Google:** I will join the Engineering Productivity organization in New York City (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
+
 - 🔭 **ML & Robotics Researcher @ Living With Robots Laboratory (LWR):** Developing and optimizing Transformer-based architectures for human intent and motion trajectory prediction. I helped engineer a robust training pipeline predicting future variable-length trajectories using spatial-temporal attention on 3D skeletal data. Additionally, our team implemented real-time C++ tracking utilities pulling skeletal data streams from Azure Kinect SDK sensors, achieving state-of-the-art error rates.
 
 - 🌱 **ML & Systems Researcher @ Learning Directed Operating System (LDOS):** Researching dynamic microservice scheduling using Bayesian optimization. I extract application embeddings from resource usage graphs (CPU, RAM, network latency) and train autoencoders to profile microservices (e.g., DeathStarBench), predicting optimal placements that outperform Kubernetes’ default heuristics and effectively reduce P99 tail latencies.
 
 - 👨‍🏫 **Teaching Assistant @ UT Austin:** Served as an Undergraduate Teaching Assistant for **CS 331 (Algorithms & Complexity)**, guiding students through foundational and advanced algorithmic paradigms.
-
-- 💼 **Incoming SWE Intern @ Google:** I will join the Engineering Productivity organization in New York City (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
 
 - 🏆 **Awards & Honors:** "Best Use of Google Cloud" @ HackTX 2023 | 5x University Honors
 
