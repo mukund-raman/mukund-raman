@@ -78,12 +78,12 @@ Hey there! I'm a student at **The University of Texas at Austin** studying Compu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mukund-raman&cache_seconds=86400&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80" alt="Mukund's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats-blond-iota-18.vercel.app/api?username=mukund-raman&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80" alt="Mukund's GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-raman&theme=tokyonight&border_radius=10&hide_border=true&fire=4ADE80&ring=4ADE80" alt="Mukund's Streak Stats" width="48%"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mukund-raman&cache_seconds=86400&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80&hide=jupyter%20notebook" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-blond-iota-18.vercel.app/api/top-langs/?username=mukund-raman&cache_seconds=86400&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80&hide=jupyter%20notebook" alt="Top Languages" width="50%" />
 </div>
 
 ## 🔬 Featured Research & Projects
