@@ -15,7 +15,7 @@
 
 Hey there! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher/Research Engineer in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
 
-- 💼 **SWE Intern @ Google:** I joined the Engineering Productivity organization in New York City (Summer 2026) to develop AI-powered tools utilizing LLMs and GenAI for analyzing performance metrics in Anthos-based cloud platforms. This experience has helped me build a strong systems engineering foundation that will support my goal of conducting research in ML-based systems.
+- 💼 **SWE Intern @ Google:** I joined the GDC Air-Gapped Performance and Scalability team within the Google Cloud organization in New York City during the summer of 2026 to develop AI-powered tools utilizing LLMs and GenAI for analyzing performance metrics in Anthos-based cloud platforms. This experience helped me build a strong systems engineering foundation that will support my career goals for conducting research in ML-based systems.
 
 - 🔭 **ML & Robotics Researcher @ Living With Robots Laboratory (LWR):** Developing and optimizing Transformer-based architectures for human intent and motion trajectory prediction. I helped engineer a robust training pipeline predicting future variable-length trajectories using spatial-temporal attention on 3D skeletal data. Additionally, our team implemented real-time C++ tracking utilities pulling skeletal data streams from Azure Kinect SDK sensors, achieving state-of-the-art error rates.
 
