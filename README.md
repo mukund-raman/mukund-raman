@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
+Hey there! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher/Research Engineer in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
 
-- 💼 **Incoming SWE Intern @ Google:** I will join the Engineering Productivity organization in New York City (Summer 2026) to automate internal Java fuzz testing via Google ADK, building strong systems engineering foundation on my path to becoming an ML Researcher.
+- 💼 **SWE Intern @ Google:** I joined the Engineering Productivity organization in New York City (Summer 2026) to develop AI-powered tools utilizing LLMs and GenAI for analyzing performance metrics in Anthos-based cloud platforms. This experience has helped me build a strong systems engineering foundation that will support my goal of conducting research in ML-based systems.
 
 - 🔭 **ML & Robotics Researcher @ Living With Robots Laboratory (LWR):** Developing and optimizing Transformer-based architectures for human intent and motion trajectory prediction. I helped engineer a robust training pipeline predicting future variable-length trajectories using spatial-temporal attention on 3D skeletal data. Additionally, our team implemented real-time C++ tracking utilities pulling skeletal data streams from Azure Kinect SDK sensors, achieving state-of-the-art error rates.
 
@@ -78,12 +78,12 @@ Hey there! I'm a student at **The University of Texas at Austin** studying Compu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukund-raman&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80" alt="Mukund's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mukund-raman&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80" alt="Mukund's GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-raman&theme=tokyonight&border_radius=10&hide_border=true&fire=4ADE80&ring=4ADE80" alt="Mukund's Streak Stats" width="48%"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-raman&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80&hide=jupyter%20notebook" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukund-raman&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&title_color=4ADE80&hide=jupyter%20notebook" alt="Top Languages" width="50%" />
 </div>
 
 ## 🔬 Featured Research & Projects
