@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mukund%20Raman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Undergraduate%20Machine%20Learning%20Researcher&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mukund%20Raman&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Graduate%20Machine%20Learning%20Researcher&descAlignY=51&descAlign=62" width="100%" />
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+%26+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;Incoming+SWE+Intern+@+Google;ML+%26+Robotics+Researcher+@+LWR;ML+%26+Systems+Researcher+@+LDOS">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=CS+%26+Math+@+UT+Austin;Aspiring+ML+Researcher+in+Industry;Incoming+SWE+Intern+@+Google;ML+%26+Robotics+Researcher+@+LWR;ML+%26+Systems+Researcher+@+LDOS" alt="Typing SVG" />
   </a>
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a student at **The University of Texas at Austin** studying Computer Science and Mathematics (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher/Research Engineer in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
+Hey there! I'm a student at **The University of Texas at Austin** studying my masters in Computer Science and bachelors in Computer Science and Mathematics as a double major (GPA: 3.91). My primary career goal is to become a Machine Learning Researcher/Research Engineer in industry (e.g., at Google), focusing on model architecture, efficient inference, and AI systems. Here's what I've been up to:
 
 - 💼 **SWE Intern @ Google:** I joined the GDC Air-Gapped Performance and Scalability team within the Google Cloud organization in New York City during the summer of 2026 to develop AI-powered tools utilizing LLMs and GenAI for analyzing performance metrics in Anthos-based cloud platforms. This experience helped me build a strong systems engineering foundation that will support my career goals for conducting research in ML-based systems.
 
